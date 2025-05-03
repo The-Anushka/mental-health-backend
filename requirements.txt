@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+nltk
+transformers
+torch
+scikit-learn
